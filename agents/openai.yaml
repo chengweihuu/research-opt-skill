@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研PPT设计系统"
+  short_description: "梳理科研表达逻辑，匹配页面原型，调用可编辑模板制作汇报"
+  default_prompt: "请使用 $research-ppt，根据我的研究材料梳理汇报逻辑、选择合适模板，并制作可编辑PPT。"
+policy:
+  allow_implicit_invocation: true
