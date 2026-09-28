@@ -9,6 +9,10 @@
 - `assets/template-library.pptx`：84页可编辑模板，含2页备用页。
 - `assets/catalog.json`：从简明备注自动生成的模板索引。
 - `scripts/template_catalog.py`：读取备注、检索候选、提取页面和检查索引。
+- `assets/report-brief.md`：可选的汇报需求输入模板。
+- `assets/slide-cards.md`：由AI填写的逐页汇报卡片模板，连接内容规划与模板匹配。
+- `references/report-cards.md`：卡片字段、证据状态和使用规则。
+- `examples/logic-test-input.md`：可直接测试的虚构科研文案；生成后用 `examples/logic-test-expected.md` 对照验收。
 
 PPT备注统一为九行，最多约200字：模板ID、原型、关系、结构、适用、槽位、注意、分组、来源。打开PPT底部“备注”即可查看。详细理论在MD中，备注只保留选用所需信息。
 

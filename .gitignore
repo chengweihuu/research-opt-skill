@@ -1,0 +1,6 @@
+# Microsoft Office temporary lock files
+~$*
+
+# Python generated cache
+__pycache__/
+*.py[cod]
