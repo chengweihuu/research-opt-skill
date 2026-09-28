@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "deck_file": "template-library.pptx",
-  "deck_sha256": "305761591861dd6b7dbee74f71abab14941bc233bd2776a88933ceab1bb1c224",
+  "deck_sha256": "3dcfec9cc1f90429bcf4ff9531fb7d8d6401d8b79a586d6cf0dbcc6d7374d88b",
   "slides": [
     {
       "id": "TPL-P01",
@@ -340,7 +340,7 @@
       "avoid": "明确分层依据及问题和措施的对应。",
       "group": "研究问题、局限与缺口",
       "source": "N15｜015.png",
-      "shape_count": 53,
+      "shape_count": 51,
       "table_count": 0,
       "image_count": 0,
       "named_image_areas": 2
@@ -358,7 +358,7 @@
       "avoid": "明确分层依据及问题和措施的对应。",
       "group": "研究问题、局限与缺口",
       "source": "N18｜017.png",
-      "shape_count": 66,
+      "shape_count": 57,
       "table_count": 0,
       "image_count": 0,
       "named_image_areas": 2
@@ -556,10 +556,10 @@
       "avoid": "同一阶段任务可并列，阶段关系需明确。",
       "group": "研究目标与内容总览",
       "source": "N01｜001.png",
-      "shape_count": 74,
+      "shape_count": 73,
       "table_count": 0,
       "image_count": 0,
-      "named_image_areas": 9
+      "named_image_areas": 8
     },
     {
       "id": "TPL-N02",
@@ -700,10 +700,10 @@
       "avoid": "处理环节需要真实转换关系。",
       "group": "方法原理与技术路线",
       "source": "N05｜005.png",
-      "shape_count": 40,
+      "shape_count": 39,
       "table_count": 0,
       "image_count": 0,
-      "named_image_areas": 9
+      "named_image_areas": 8
     },
     {
       "id": "TPL-N09",
@@ -808,7 +808,7 @@
       "avoid": "多路信息应共同参与结果形成。",
       "group": "方法原理与技术路线",
       "source": "N25｜022.png",
-      "shape_count": 51,
+      "shape_count": 47,
       "table_count": 0,
       "image_count": 0,
       "named_image_areas": 1
@@ -862,7 +862,7 @@
       "avoid": "不同信息流要有明确方向。",
       "group": "方法原理与技术路线",
       "source": "N22｜020.png",
-      "shape_count": 21,
+      "shape_count": 24,
       "table_count": 0,
       "image_count": 0,
       "named_image_areas": 3
@@ -1420,7 +1420,7 @@
       "avoid": "图像要直接支持邻近说明。",
       "group": "支撑条件与代表成果",
       "source": "W06｜031.png",
-      "shape_count": 67,
+      "shape_count": 65,
       "table_count": 0,
       "image_count": 0,
       "named_image_areas": 9
